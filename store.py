@@ -5,5 +5,3 @@ def get_categories():
     print(r.status_code)
     print(r.text)
 
-
-get_categories()
